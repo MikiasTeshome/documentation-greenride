@@ -1,7 +1,11 @@
 {
     "index": "Introduction",
-    "another": "Another Page",
-    "advanced": "Advanced (A Folder)",
+    "getting-started": "Getting Started",
+    "user-guide": "User Guide",
+    "driver-guide": "Driver Guide",
+    "admin-guide": "Admin Guide",
+    "FAQ": "FAQ",
+    "Support": "Support and Contact Information",
     "about": {
       "title": "About",
       "type": "page"

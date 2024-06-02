@@ -11,14 +11,16 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/MikiasTeshome/documentation-greenride',
   footer: {
-    text: 'Gre  en Ride Docs',
+    text: 'Green Ride Docs',
+  },
+  search: {
+    placeholder: 'Search...',
   },
   i18n: [
     { locale: 'en-US', text: 'English' },
-    { locale: 'Et-or', text: 'ኦሮሚኛ' },
-    { locale: 'Et-am', text: 'አማርኛaaa' },
-    { locale: 'Et-or', text: 'Oromiffa' },
-    { locale: 'Et-oro', text: 'Oromiffa' },
+    { locale: 'or', text: 'Oromiffa' },
+    { locale: 'am', text: 'አማርኛaaa' },
+  
     // { locale: 'ar-SA', text: 'العربية', direction: 'rtl' }
   ]
 }
