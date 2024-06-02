@@ -2,17 +2,23 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Green RIDE</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/MikiasTeshome/documentation-greenride',
   },
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/MikiasTeshome/documentation-greenride',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Gre  en Ride Docs',
   },
+  i18n: [
+    { locale: 'en-US', text: 'English' },
+    { locale: 'Et-am', text: 'አማርኛ' },
+    { locale: 'Et-or', text: 'Oromiffa' },
+    // { locale: 'ar-SA', text: 'العربية', direction: 'rtl' }
+  ]
 }
 
 export default config
