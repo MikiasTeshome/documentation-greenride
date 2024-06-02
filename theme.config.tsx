@@ -15,7 +15,7 @@ const config: DocsThemeConfig = {
   },
   i18n: [
     { locale: 'en-US', text: 'English' },
-    { locale: 'Et-or', text: 'Oromiffa' },
+    { locale: 'Et-or', text: 'ኦሮሚኛ' },
     { locale: 'Et-am', text: 'አማርኛaaa' },
     { locale: 'Et-or', text: 'Oromiffa' },
     // { locale: 'ar-SA', text: 'العربية', direction: 'rtl' }
