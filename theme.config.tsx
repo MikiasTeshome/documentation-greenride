@@ -18,6 +18,7 @@ const config: DocsThemeConfig = {
     { locale: 'Et-or', text: 'ኦሮሚኛ' },
     { locale: 'Et-am', text: 'አማርኛaaa' },
     { locale: 'Et-or', text: 'Oromiffa' },
+    { locale: 'Et-oro', text: 'Oromiffa' },
     // { locale: 'ar-SA', text: 'العربية', direction: 'rtl' }
   ]
 }
